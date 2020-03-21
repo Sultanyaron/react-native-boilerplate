@@ -35,6 +35,8 @@ const authenticationReducer = (
 				...state,
 				isAuthenticated: false
 			};
+		default:
+			return state;
 	}
 };
 
