@@ -1,0 +1,17 @@
+{
+  "name": "reactNavigation5",
+  "displayName": "reactNacigation5",
+  "expo": {
+    "name": "reactNavigation5",
+    "slug": "expo-template-bare",
+    "privacy": "unlisted",
+    "sdkVersion": "36.0.0",
+    "version": "1.0.0",
+    "entryPoint": "node_modules/expo/AppEntry.js",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ]
+  }
+}
