@@ -1,10 +1,9 @@
 import React from 'react';
 import { Text, View } from 'react-native';
+import Navigation from './navigation';
 
-export default function App() {
-	return (
-		<View>
-			<Text>Open up App.tsx to start working on your app!</Text>
-		</View>
-	);
-}
+const App = () => {
+	return <Navigation />;
+};
+
+export default App;
