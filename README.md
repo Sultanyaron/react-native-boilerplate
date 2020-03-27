@@ -1,15 +1,6 @@
 This project is created with Create React Native App.
 
-## Table of Contents
-
-> If your `README` has a lot of info, section headers might be nice.
-
-- [Ussage](#Usage)
-- [Features](#features)
-- [Team](#team)
-- [FAQ](#faq)
-- [Support](#support)
-- [License](#license)
+## React Native Boilerplate
 
 ## Usage
 
