@@ -14,7 +14,11 @@ export default Home;
 
 const S: any = {};
 
-S.Wrapper = styled.View`
+S.Wrapper = styled.View(
+	({ theme }) => `
+	flex: 1;
+	background-color: ${theme.colors.mainBackgroundColor};
 	justify-content: center;
 	align-items: center;
-`;
+	`
+);
